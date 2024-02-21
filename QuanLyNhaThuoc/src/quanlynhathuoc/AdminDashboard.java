@@ -66,7 +66,7 @@ public class AdminDashboard extends javax.swing.JFrame {
                 jButton2ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton2, new org.netbeans.lib.awtextra.AbsoluteConstraints(440, 87, -1, -1));
+        getContentPane().add(jButton2, new org.netbeans.lib.awtextra.AbsoluteConstraints(440, 87, 310, -1));
 
         jButton3.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Image/viewUser.png"))); // NOI18N
         jButton3.setText("Danh sách người dùng");
